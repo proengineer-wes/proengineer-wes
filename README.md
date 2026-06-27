@@ -1,54 +1,112 @@
-# Wesley P
+# Hi, I'm Wesley 👋
 
-## Senior Backend / Full Stack Engineer
-
-**Python • C#/.NET • PHP/Laravel • Azure • AI • Data Engineering • API Integration**
-
-I design and build production-ready backend systems, full stack applications, data pipelines, AI automation workflows, and enterprise integrations.
-
-My work focuses on reliable backend architecture, clean API design, SQL/database systems, Azure data engineering, observability, and cloud-ready delivery.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Senior+Full+Stack+Engineer;Frontend+Applications+%7C+Backend+APIs+%7C+Cloud+Systems;Python+%E2%80%A2+C%23%2F.NET+%E2%80%A2+PHP%2FLaravel+%E2%80%A2+Node.js+%E2%80%A2+React+%E2%80%A2+Azure" alt="Typing SVG" />
+</p>
 
 ---
 
-## Core Engineering Focus
+## About Me
 
-| Area | Strength |
-|---|---|
-| Backend Engineering | Python, C#/.NET, PHP, Laravel, FastAPI, ASP.NET |
-| API Development | REST APIs, authentication, validation, business workflows |
-| Data Engineering | SQL, ETL, Azure Data Factory, ingestion pipelines, data quality |
-| AI Automation | Azure Document Intelligence, structured extraction, AI pipelines |
-| Cloud & DevOps | Azure, CI/CD, deployment readiness, operational reliability |
-| Observability | Structured logging, metrics, retry policies, failure handling |
+**Senior Full Stack Engineer | Frontend Applications, Backend APIs & Cloud-Ready Systems**
+
+I build production web applications across frontend and backend layers, with a focus on clean architecture, reliable business workflows, database-backed systems, and maintainable delivery.
+
+My work covers **React/TypeScript frontends**, **Python, C#/.NET, PHP/Laravel, and Node.js backends**, SQL databases, Azure data workflows, API integrations, observability, and production support.
 
 ---
 
-## Featured Portfolio
+## Professional Experience
 
-| Repository | Focus |
-|---|---|
-| **AI-Document-Processor** | Azure Document Intelligence, blob processing, validation, structured logging |
-| **Azure-Data-Engineering** | ADF pipelines, SQL ingestion, watermark validation, data quality, retry policy |
-| **ASP-.NET-API** | C#/.NET backend API development |
-| **Laravel-Store** | PHP/Laravel application development |
-| **python-fastapi-restful** | Python FastAPI REST backend architecture |
-| **uptime-latest** | Monitoring, latency metrics, failure classification, observability |
+### Senior Full Stack Engineer
 
----
+**Frontend Applications · Backend APIs · Database Systems · Cloud Integration**
 
-## Engineering Principles
-
-I build systems with clear boundaries, durable data flows, operational visibility, and maintainable code.
-
-My priority is to deliver software that can be understood, extended, debugged, and trusted in production.
+* Built frontend applications using **React, Next.js, TypeScript, JavaScript, HTML5, CSS3**, and responsive UI patterns.
+* Developed backend services using **Python/FastAPI, C#/.NET, ASP.NET Core, PHP/Laravel, and Node.js**.
+* Designed REST APIs, authentication flows, validation layers, business workflows, and database-backed services.
+* Implemented full stack features including dashboards, admin portals, forms, file uploads, reporting views, order/payment flows, and internal tools.
+* Worked with **SQL Server, MySQL, PostgreSQL**, schema design, query optimization, migrations, reporting queries, and production data fixes.
+* Integrated third-party APIs, SaaS platforms, CRM systems, cloud storage, automation services, and enterprise business systems.
+* Improved reliability through structured logging, error handling, retry logic, timeout control, performance tuning, and deployment-ready documentation.
 
 ---
 
-## Primary Positioning
+## Core Skills
 
-**Senior Backend / Full Stack Engineer**
+### Frontend
 
-Specialized in:
+`React` · `Next.js` · `TypeScript` · `JavaScript` · `HTML5` · `CSS3` · `Responsive UI`
+
+### Backend
+
+`Python` · `FastAPI` · `C#` · `.NET` · `ASP.NET Core` · `PHP` · `Laravel` · `Node.js`
+
+### APIs & Integration
+
+`REST APIs` · `Authentication` · `Webhooks` · `API Integration` · `CRM Integration` · `SaaS Integrations`
+
+### Data & Cloud
+
+`SQL Server` · `MySQL` · `PostgreSQL` · `Azure` · `Azure Data Factory` · `Blob Storage` · `ETL`
+
+### Production Engineering
+
+`Logging` · `Metrics` · `Retry Policies` · `Failure Handling` · `CI/CD Readiness` · `Performance Optimization`
+
+---
+
+## Featured Engineering Projects
+
+### Full Stack & Backend Systems
+
+* **ASP-.NET-API** — C#/.NET backend API structure, service implementation, and REST endpoint design.
+* **Laravel-Store** — PHP/Laravel application with database-driven backend workflows.
+* **python-fastapi-restful** — Python FastAPI REST API architecture and backend service patterns.
+* **uptime-latest** — TypeScript monitoring logic with latency metrics, structured logging, and failure classification.
+
+### Azure, AI & Data Engineering
+
+* **AI-Document-Processor** — Azure Document Intelligence pipeline with blob processing, validation, configurable models, and structured logging.
+* **Azure-Data-Engineering** — ADF SQL ingestion, watermark validation, data quality contracts, execution metrics, retry policy, and pipeline resilience.
+* **Salesforce-Integration-GCloud** — Enterprise CRM/cloud integration patterns across Salesforce and Google Cloud.
+
+---
+
+## Professional Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,php,laravel,nodejs,react,nextjs,ts,js,html,css,azure,mysql,postgres,github,git,docker" />
+</p>
+
+---
+
+## Engineering Focus
 
 ```text
-Python | C#/.NET | PHP/Laravel | Azure | AI Pipelines | Data Engineering | API Integration
+Frontend Applications     → React, Next.js, TypeScript, responsive UI
+Backend APIs              → Python, C#/.NET, PHP/Laravel, Node.js
+Database Systems          → SQL Server, MySQL, PostgreSQL, query optimization
+Cloud & Data Workflows    → Azure, ADF, Blob Storage, ETL pipelines
+Enterprise Integrations   → REST APIs, CRM, SaaS, webhooks, automation
+Production Readiness      → Logging, metrics, retries, timeout control, documentation
+```
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=proengineer-wes&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=proengineer-wes&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proengineer-wes&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Positioning
+
+**Senior Full Stack Engineer** specializing in frontend applications, backend APIs, database systems, cloud integrations, and production-ready business software.
