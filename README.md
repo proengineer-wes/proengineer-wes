@@ -94,16 +94,15 @@ Production Readiness      → Logging, metrics, retries, timeout control, docume
 
 ---
 
-## GitHub Activity
+## Engineering Portfolio Direction
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=proengineer-wes&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=proengineer-wes&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proengineer-wes&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+I maintain this GitHub as a practical engineering portfolio focused on production-style improvements across full stack, backend, cloud, and data systems.
+Current portfolio work includes:
+- Hardening backend APIs with validation, error handling, logging, and service structure
+- Improving Azure data pipelines with retry policies, metrics, data quality, and watermarking
+- Building AI document processing workflows with configurable extraction and blob handling
+- Strengthening monitoring projects with latency metrics and failure classification
+- Maintaining Laravel, ASP.NET, FastAPI, and TypeScript projects as focused proof-of-work repositories
 
 ---
 
